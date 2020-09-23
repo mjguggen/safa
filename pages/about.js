@@ -2,8 +2,6 @@ import React from 'react'
 
 import AboutUs from '../components/aboutUs'
 
-
-
 const About = props => {
     return (
         <div className="screen about">
