@@ -4,7 +4,7 @@ import Link from "next/link";
 
 
 //Assets
-import mainBg from '../assets/mainBG.png'
+import mainbg from '../assets/mainbg.png'
 import img4 from '../assets/img4.png'
 
 //Components
@@ -63,7 +63,7 @@ const Index = (props) => {
     <div className="screen home">
       <div className="main-container">
         <img  
-          src={mainBg}
+          src={mainbg}
           alt="plant" 
           className="main-bg-img"
         />
