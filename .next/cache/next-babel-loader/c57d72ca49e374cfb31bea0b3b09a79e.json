@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport { connect } from 'react-redux';\n\nconst About = props => {\n  return __jsx(\"div\", null, \"About\");\n};\n\nexport default connect()(About);","map":null,"metadata":{},"sourceType":"module"}

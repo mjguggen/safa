@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react'; //Components\n\nimport Layout from '../components/layout';\nimport '../style.scss';\n\nconst App = ({\n  Component,\n  pageProps\n}) => {\n  return __jsx(Layout, null, __jsx(Component, pageProps));\n};\n\nexport default App;","map":null,"metadata":{},"sourceType":"module"}
