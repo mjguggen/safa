@@ -12,6 +12,6 @@ module.exports = withPlugins(
         withImages()
     ],
     {
-        target: 'serverless'
+        target: 'serverless',
     }
 )
