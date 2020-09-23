@@ -1,5 +1,5 @@
 const withImages = require('next-images')
 
-module.exports = withImages()
-
 exports.target = 'severless'
+
+module.exports = withImages()
