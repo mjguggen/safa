@@ -1,4 +1,3 @@
 # .gitignore
-package-lock.json/
 /out_publish/
 /out_functions/
