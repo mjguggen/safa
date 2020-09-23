@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SET_LANGUAGE_E, SET_LANGUAGE_S } from '../types';\nexport const setLanguageE = () => dispatch => {\n  dispatch({\n    type: SET_LANGUAGE_E\n  });\n};\nexport const setLanguageS = () => dispatch => {\n  dispatch({\n    type: SET_LANGUAGE_S\n  });\n};","map":null,"metadata":{},"sourceType":"module"}

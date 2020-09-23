@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { combineReducers } from 'redux';\nimport language from './language';\nimport auth from './auth';\nexport default combineReducers({\n  language,\n  auth\n});","map":null,"metadata":{},"sourceType":"module"}

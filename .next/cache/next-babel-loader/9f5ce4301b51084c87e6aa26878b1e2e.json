@@ -1,0 +1,1 @@
+{"ast":null,"code":"//language\nexport const SET_LANGUAGE_E = \"SET_LANGUAGE_E\";\nexport const SET_LANGUAGE_S = \"SET_LANGUAGE_S\"; //auth\n\nexport const AUTHORIZE = \"AUTHORIZE\";","map":null,"metadata":{},"sourceType":"module"}
