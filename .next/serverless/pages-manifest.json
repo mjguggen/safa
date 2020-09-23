@@ -1,0 +1,9 @@
+{
+  "/about": "pages/about.html",
+  "/contact": "pages/contact.html",
+  "/donate": "pages/donate.html",
+  "/": "pages/index.html",
+  "/news": "pages/news.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
