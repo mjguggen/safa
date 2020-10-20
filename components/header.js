@@ -25,7 +25,7 @@ const Header = props => {
                 </a>
 
                 <div className="header-description desktop">
-                    Somali American Farmer's Association
+                    Somali American Farmers Association
                 </div>
             </div>
 

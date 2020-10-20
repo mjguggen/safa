@@ -1,7 +1,6 @@
 import React from 'react'
 
 import fb from '../assets/logo-facebook.svg'
-import ig from '../assets/logo-instagram.svg'
 
 
 const Footer = props => {
@@ -21,18 +20,13 @@ const Footer = props => {
                             className="logo"
                         />
                     </a>
-                    <a
-                        href="https://www.instagram.com/naimasfarm/"
-                        target="_blank"
-                    >
-                        <img src={ig} className="logo"/>
-                    </a>
+
                 </div>
             </div>
 
             <div className="right">
                 <div >
-                    &#169; Somali American Farmer's Association
+                    &#169; Somali American Farmers Association
                 </div>
                 
             </div>
